@@ -2,7 +2,6 @@
 *.iml
 *.ipr
 *.iws
-*.jar
 *.sw?
 *~
 .#*
@@ -22,6 +21,7 @@
 MANIFEST.MF
 _site/
 activemq-data
+out
 bin
 build
 build.log
